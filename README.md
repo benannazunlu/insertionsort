@@ -26,3 +26,5 @@ Verilerin ortancası bu yüzden average case olur.
 2. Adım: 3 7 5 8 2 9 4 15 6
 3. Adım: 3 5 7 8 2 9 4 15 6
 4. Adım: 3 4 7 8 2 9 4 15 6
+
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
